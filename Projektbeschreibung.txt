@@ -1,3 +1,5 @@
 Dies ist ein Trainingsprojekt ausgeführt nach folgender Anleitung:
 
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Inzwischen ist schon was bei Github angekommen
